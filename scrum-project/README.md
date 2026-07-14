@@ -18,7 +18,7 @@
 
 ## Team Members
 
-_Teams are 3–4 students (per syllabus). Solo teams are not permitted._
+_Teams are 4–5 students (per syllabus). Solo teams are not permitted._
 
 1. Member 1 Full Name — uc-email@mail.uc.edu — _Role (e.g., Scrum Master, ..)_
 2. Member 2 Full Name — uc-email@mail.uc.edu — _Role (e.g., Product Owner, ..)_
@@ -51,7 +51,7 @@ _Teams are 3–4 students (per syllabus). Solo teams are not permitted._
 
 _Start in Sprint 0; refine across all sprints._
 
-Describe the project in 2–4 paragraphs: the problem it addresses, the target users, and a high-level summary of the proposed solution. Include a **high-level architecture diagram** 
+Describe the project in 2–4 paragraphs: the problem it addresses, the target users, and a high-level summary of the proposed solution. Include a **high-level architecture diagram**
 
 ---
 
